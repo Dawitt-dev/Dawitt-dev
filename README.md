@@ -12,7 +12,7 @@ Originally from Ethiopia, I've had the opportunity to work in diverse roles, fro
 ## Education
 
 - **Bachelor of Economis** - Adama Science and Technology University, 2011-2014
-- **Software Engineering** student @ ALX Africa, from AUG 2023
+- **Software Engineering** - student @ ALX Africa, from AUG 2023
 
 ## Skills
 
