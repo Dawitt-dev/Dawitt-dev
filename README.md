@@ -16,7 +16,7 @@ Originally from Ethiopia, I've had the opportunity to work in diverse roles, fro
 
 ## Skills
 
-- **Programming**: c (Basic), Phyton (beginner)
+- **Programming**: C, Phyton, Java script, HTML, CSS
 - **Languages**: German (Intermediate), English (Fluent), Amharic (Native)
 
 ## Get in Touch!
