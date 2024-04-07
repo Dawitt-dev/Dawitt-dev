@@ -1,5 +1,7 @@
 Welcome to Dawit's GitHub Profile! 👋
+
 About Me
+
 Hello there! I'm Dawit, a passionate individual with a background in ecomnomics and a flair for technology. Originally from Ethiopia, I've had the opportunity to work in diverse roles, from office administration to event management.
 
 🌍 Location: Currently residing in Germany
