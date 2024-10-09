@@ -1,21 +1,71 @@
-#Welcome to Dawit's GitHub Profile! 👋
+# 👋 Hi, I'm Dawit!
 
-About Me
+I’m a software engineer passionate about technology, problem-solving, and building impactful projects. With a background in economics and a focus on software development, I'm eager to contribute to innovative solutions!
 
-Hello there! I'm Dawit, a passionate individual with a background in ecomnomics and a flair for technology. Originally from Ethiopia, I've had the opportunity to work in diverse roles, from office administration to event management.
+---
 
-🌍 Location: Currently residing in Germany
-🎓 Education: Studying Software Engineering at ALX Africa
-🚀 Current Focus: Exploring the world of software development and looking for exciting opportunities.
-Education
-Bachelor of Economis - Adama Science and Technology University, 2011-2014
-Software Engineering - student @ ALX Africa, from AUG 2023
-Skills
-Programming: C, Phyton, Java script, HTML, CSS
-Languages: German (Intermediate), English (Fluent), Amharic (Native)
-Get in Touch!
+## 🛠️ Skills
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=c,python,php,javascript,html,css&theme=light)](https://skillicons.dev)
+
+### Back-end:
+[![Back-end](https://skillicons.dev/icons?i=linux,nginx,redis,ubuntu,flask,express,laravel&theme=light)](https://skillicons.dev)
+
+### Front-end:
+[![Front-end](https://skillicons.dev/icons?i=nodejs,react,tailwind,vite,vue,typescript&theme=light)](https://skillicons.dev)
+
+### Databases:
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongo&theme=light)](https://skillicons.dev)
+
+### Testing:
+- Unit Testing (Python, JavaScript)
+- Integration Testing (Python, JavaScript)
+
+### DevOps/Deployment:
+- Linux (Permissions, Syscalls, Processes)
+- Nginx (Web Servers)
+- SSH, SSL/TLS
+- Webstack Debugging
+
+### Algorithms & Data Structures:
+- Stacks, Queues, Hash Tables, Binary Trees
+- Sorting Algorithms, Big O Analysis
+- Bit Manipulation
+
+### Collaboration & Tools:
+- Git/GitHub (Version Control)
+- Technical Writing
+- Agile/Scrum Practices
+- Time Management
+
+### Authentication:
+- Basic Authentication
+- Session-based Authentication
+- User Authentication Systems
+
+---
+
+## 🛠️ Projects
+
+- **[VerbMeister](https://www.verbmeister.me)**: A gamified app for learning German verb-preposition pairs. Built with **Laravel** and **Vue.js** to help users practice and track their progress in German grammar. 🖥️
+
+---
+
+## 📈 GitHub Stats
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawitt-dev&layout=compact&theme=auto)](https://github.com/yourusername/github-readme-stats)
+
+---
+
+## 📫 Get in Touch!
+
 I'm always open to new opportunities and collaborations. Feel free to reach out:
 
-📧 Email: Dawitt-dev
-💼 LinkedIn: Dawitt-dev
+📧 Email: [dawittbeyene22@gmail.com](mailto:dawittbeyene22@gmail.com)  
+💼 LinkedIn: [Dawitt-dev](https://www.linkedin.com/in/dawitt-dev)  
+💬 Discord: _dawitt
+
+
 Let's connect and build something amazing together! ✨
