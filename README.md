@@ -48,7 +48,7 @@ I’m a software engineer passionate about technology, problem-solving, and buil
 
 ## 🛠️ Projects
 
-- **[VerbMeister](https://www.verbmeister.me)**: A gamified app for learning German verb-preposition pairs. Built with **Laravel** and **Vue.js** to help users practice and track their progress in German grammar. 🖥️
+- **[VerbMeister](https://mastergermanverbs.com)**: A gamified app for learning German verb-preposition pairs. Built with **Laravel**, **Tailind CSS**, **MySQL** and **Blade** to help users practice and track their progress in German grammar. 🖥️
 
 ---
 
